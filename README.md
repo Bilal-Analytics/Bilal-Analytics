@@ -46,11 +46,13 @@ Currently focused on:
 ---
 
 ## 🔗 Connect With Me
-- 💼 **LinkedIn:** engrbilalhassan
-- 🧠 **HackerRank:** bilal_analytics  
-- 📊 **Kaggle:** engrbilalhassan
--  📊 **huggingfac:** EngrBilalHassan        
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EngrBilalHassan-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engrbilalhassan)
 
+[![HackerRank](https://img.shields.io/badge/HackerRank-bilal_analytics-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/bilal_analytics)
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-engrbilalhassan-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/engrbilalhassan)
+
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-EngrBilalHassan-yellow?logo=huggingface&logoColor=black)](https://huggingface.co/EngrBilalHassan)
 ---
 
 ## 🚀 Vision
